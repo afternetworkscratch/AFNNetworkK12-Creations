@@ -1,0 +1,17 @@
+When green flag clicked
+say Testing Extensions for 3 seconds
+(extension) - speak hello
+say Testing Costumes.... for 3 seconds
+next costume
+(control) - wait 1 second
+next costume 
+(control) - wait 1 second
+next costume
+(control) - wait 1 second
+say Testing Sounds... for 3 seconds
+(sound) - play sound Meow until done
+(sound) - play sound A Elec Bass until done
+(sound) - play sound A Elec Piano until done
+(sound) - play sound B Elec Guitar 
+
+NOTE: I put notes and labels, but it is like the blocks without the lining.
