@@ -1,0 +1,8 @@
+Error: Sprite Shows Early
+Date: Feb. 22, 2019
+Status: Fixed
+Sprite: Ruler-Shown
+Error at:
+Wait 40 Seconds
+Fixed:
+Wait 41 Seconds
